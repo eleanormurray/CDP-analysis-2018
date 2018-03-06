@@ -1,4 +1,4 @@
-Program 1: Data management
+/*Program 1: Data management*/
 libname cdp "<path>";
 
 data cdp.hzmodel;
